@@ -1,0 +1,8 @@
+name: dao
+addr: 192.168.20.32:3306
+username: root
+password: smallming
+dbName: test1
+charset: utf8mb4
+parseTime: true
+loc: Local
